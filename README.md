@@ -27,7 +27,7 @@ http://qiita.com/y__sama/items/5b62d31cb7e6ed50f02c
 http://qiita.com/t2y/items/2a3eb58103e85d8064b6
 
 ## 基本的な勉強の進め方
-1. 基本的にpycharm上でコードを実行していってもらいたいので、pycharm_guide.mdをみてください。
+1. 基本的にpycharm上でコードを実行していってもらいたいので、[pycharm_guide.md](https://github.com/safari029/learn_python/blob/master/pycharm_guide.md)をみてください。
 2. learnフォルダのnotebookに記載のコードを手元の環境で実行してみましょう。
 3. 各章末に実践編としてプログラムを作る課題がありますので試してみてください。
 4. learnの100以降は便利なパッケージ類の紹介を行う予定です。実際に開発に役立てていきましょう。
