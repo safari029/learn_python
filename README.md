@@ -18,7 +18,7 @@
 
 ## インストール方法
 
-1. python(https://www.python.org/downloads/)  から自分の環境にあったものをダウンロードし、インストールします。3系の最新バージョンをインストールしましょう。
+1. [python](https://www.python.org/downloads/)  から自分の環境にあったものをダウンロードし、インストールします。3系の最新バージョンをインストールしましょう。
 
 2. [pycharm community edition](https://www.jetbrains.com/pycharm/download/)をインストールしてください。
 
